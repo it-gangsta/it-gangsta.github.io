@@ -2847,4 +2847,13 @@ body.is-menu-visible #menu {
   #menu > * {
     padding: 1.5em;
   }
-}/*# sourceMappingURL=main.css.map */
+}
+
+.no-margin {
+  margin: 0 0 0 0;
+}
+
+.img-contain {
+  -o-object-fit: contain;
+     object-fit: contain;
+}
